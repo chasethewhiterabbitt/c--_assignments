@@ -1,0 +1,124 @@
+How many test scores are in this set?
+There will be 15 scores in this set.
+What is the first test score for this student?
+The first test score for this student is 200
+What is the second test score for the student?
+The second test score for this student is 200
+What is the third test score for this student?
+The last test score for this student is 200
+What is the first test score for this student?
+The first test score for this student is 550
+What is the second test score for the student?
+The second test score for this student is 670
+What is the third test score for this student?
+The last test score for this student is 710
+What is the first test score for this student?
+The first test score for this student is 470
+What is the second test score for the student?
+The second test score for this student is 380
+What is the third test score for this student?
+The last test score for this student is 800
+What is the first test score for this student?
+The first test score for this student is 780
+What is the second test score for the student?
+The second test score for this student is 630
+What is the third test score for this student?
+The last test score for this student is 570
+What is the first test score for this student?
+The first test score for this student is 520
+What is the second test score for the student?
+The second test score for this student is 790
+What is the third test score for this student?
+The last test score for this student is 600
+What is the first test score for this student?
+The first test score for this student is 470
+What is the second test score for the student?
+The second test score for this student is 490
+What is the third test score for this student?
+The last test score for this student is 550
+What is the first test score for this student?
+The first test score for this student is 620
+What is the second test score for the student?
+The second test score for this student is 630
+What is the third test score for this student?
+The last test score for this student is 450
+What is the first test score for this student?
+The first test score for this student is 360
+What is the second test score for the student?
+The second test score for this student is 760
+What is the third test score for this student?
+The last test score for this student is 660
+What is the first test score for this student?
+The first test score for this student is 540
+What is the second test score for the student?
+The second test score for this student is 730
+What is the third test score for this student?
+The last test score for this student is 680
+What is the first test score for this student?
+The first test score for this student is 350
+What is the second test score for the student?
+The second test score for this student is 490
+What is the third test score for this student?
+The last test score for this student is 520
+What is the first test score for this student?
+The first test score for this student is 500
+What is the second test score for the student?
+The second test score for this student is 800
+What is the third test score for this student?
+The last test score for this student is 750
+What is the first test score for this student?
+The first test score for this student is 690
+What is the second test score for the student?
+The second test score for this student is 440
+What is the third test score for this student?
+The last test score for this student is 420
+What is the first test score for this student?
+The first test score for this student is 720
+What is the second test score for the student?
+The second test score for this student is 420
+What is the third test score for this student?
+The last test score for this student is 580
+What is the first test score for this student?
+The first test score for this student is 260
+What is the second test score for the student?
+The second test score for this student is 720
+What is the third test score for this student?
+The last test score for this student is 690
+What is the first test score for this student?
+The first test score for this student is 670
+What is the second test score for the student?
+The second test score for this student is 540
+What is the third test score for this student?
+The last test score for this student is 750
+
+This is the data for the first group of test scores, they are saved in an array called score1.
+
+200	550	470	780	520	470	
+620	360	540	350	500	690	
+720	260	670	
+
+This is the data for the second group of test scores, they are saved in an array called score2.
+
+200	670	380	630	790	490	
+630	760	730	490	800	440	
+420	720	540	
+
+This is the data for the third group of test scores, they are saved in an array called score3.
+
+200	710	800	570	600	550	
+450	660	680	520	750	420	
+580	690	750	
+
+This is the output of makenewarray function
+
+600	1930	1650	1980	1910	1510	
+1700	1780	1950	1360	2050	1550	
+1720	1670	1960	
+The smallest element in array score1 is 200
+This occurs in location 0 of the array.
+The smallest element in array score2 is 200
+This occurs in location 0 of the array.
+The smallest element in array score3 is 200
+This occurs in location 0 of the array.
+The smallest element in array sumscores is 600
+This occurs in location 0 of the array.
