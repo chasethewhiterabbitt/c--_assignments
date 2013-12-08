@@ -1,4 +1,3 @@
-Enter the date ...
 
 
 The date you entered was 1/3/01
@@ -13,7 +12,6 @@ This is the year 01
 
 The European way ... 3.1.01
 The full way of printing ... 1-3-2001
-Enter the date ...
 
 
 The date you entered was 2/10/02
@@ -28,7 +26,6 @@ This is the year 02
 
 The European way ... 10.2.02
 The full way of printing ... 2-10-2002
-Enter the date ...
 
 
 The date you entered was 3/9/03
@@ -43,7 +40,6 @@ This is the year 03
 
 The European way ... 9.3.03
 The full way of printing ... 3-9-2003
-Enter the date ...
 
 
 The date you entered was 4/24/05
@@ -58,7 +54,6 @@ This is the year 05
 
 The European way ... 24.4.05
 The full way of printing ... 4-24-2005
-Enter the date ...
 
 
 The date you entered was 5/6/04
@@ -73,7 +68,6 @@ This is the year 04
 
 The European way ... 6.5.04
 The full way of printing ... 5-6-2004
-Enter the date ...
 
 
 The date you entered was 6/19/06
@@ -88,7 +82,6 @@ This is the year 06
 
 The European way ... 19.6.06
 The full way of printing ... 6-19-2006
-Enter the date ...
 
 
 The date you entered was 7/8/07
@@ -103,7 +96,6 @@ This is the year 07
 
 The European way ... 8.7.07
 The full way of printing ... 7-8-2007
-Enter the date ...
 
 
 The date you entered was 8/26/08
@@ -118,7 +110,6 @@ This is the year 08
 
 The European way ... 26.8.08
 The full way of printing ... 8-26-2008
-Enter the date ...
 
 
 The date you entered was 11/19/09
@@ -134,7 +125,6 @@ This is the year 09
 The European way ... 19.11.09
 November 19, 2009
 The full way of printing ... 11-19-2009
-Enter the date ...
 
 
 The date you entered was 10/9/10
